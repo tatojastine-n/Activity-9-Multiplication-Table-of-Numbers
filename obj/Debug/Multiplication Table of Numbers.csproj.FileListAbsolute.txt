@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Multiplication Table of Numbers\bin\Debug\Multiplication Table of Numbers.exe.config
+C:\Users\HP\source\repos\Multiplication Table of Numbers\bin\Debug\Multiplication Table of Numbers.exe
+C:\Users\HP\source\repos\Multiplication Table of Numbers\bin\Debug\Multiplication Table of Numbers.pdb
+C:\Users\HP\source\repos\Multiplication Table of Numbers\obj\Debug\Multiplication Table of Numbers.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Multiplication Table of Numbers\obj\Debug\Multiplication Table of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Multiplication Table of Numbers\obj\Debug\Multiplication Table of Numbers.exe
+C:\Users\HP\source\repos\Multiplication Table of Numbers\obj\Debug\Multiplication Table of Numbers.pdb
